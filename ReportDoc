@@ -1,0 +1,10 @@
+Aşağıdaki web sitesi test edildi ve aşağıdaki gibi not alındı.
+https://yazilimtestegitimi.com/mobiltestalistirmasi/
+
+-Arkaplandaki resmin üstünde olan img. hatalı.
+-Linke tıklamak üzere fareyi üzerine getirdiğinde görünmeyecek şekilde renk değiştiriyor.
+-Facebook ve Twitter linklerine ulaşılamıyor.
+-Twitter logosu altındaki facebook yazısı hatalı. Facebook logosu altında "Flow us on Instagram" hatalı.
+-Udemy Courses, Learn More, Web Testing butonları sayfaya ulaştırmıyor 404notFound hatası veriyor.
+-Our story kısmının altında yazı yok.
+-En alt kısımdaki video izlenilebilir büyüklükte değil.
